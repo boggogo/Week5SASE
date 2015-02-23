@@ -7,7 +7,7 @@ package week4sase;
 import java.lang.annotation.*;
 /**
  *
- * @author 1306794
+ * @author Georgi Koemdzhiev
  */
 
 
@@ -17,7 +17,8 @@ public class Tester {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       
+        System.out.println("Welcome to Hello Lab4");
+        GeneralDictionary dict = new GeneralDictionary();
     }
     
 }

@@ -7,7 +7,7 @@ package week4sase;
 
 /**
  *
- * @author 1306794
+ * @author Georgi Koemdzhiev
  */
 public interface Dictonary {
 

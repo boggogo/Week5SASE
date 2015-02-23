@@ -20,6 +20,7 @@ public class ExtendedDictionary implements Dictionary{
         map = new TreeMap<String, String>();
         map.put("Journal", "a set of articles,usually bound with a soft cover");
         map.put("Author", "a person who writes");
+        map.put("Georgi Koemdzhiev", "A super man");
     }
     
     
